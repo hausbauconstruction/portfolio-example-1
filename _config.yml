@@ -3,7 +3,7 @@
 title: Stefan Crabtree
 description: Entrepreneur | Thinker | Father
 
-baseurl:  #name of GitHub repository
+baseurl: stefan-portfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
